@@ -1,2 +1,3 @@
-# terrestrial_fluxes
-Estimating terrestrial nutrient inputs to the Norwegian coastline
+# Terrestrial fluxes
+
+Useful workflows for estimating terrestrial nutrient inputs to the Norwegian coastline.
